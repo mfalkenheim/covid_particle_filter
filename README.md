@@ -23,8 +23,7 @@ particle weights at each observation via Bayes' rule, and resampling to
 prevent particle degeneracy.
 
 This project was developed in September 2020 as both a research exercise
-and a teaching tool for colleagues learning particle filter methods. The
-methodology and results were presented internally at CBO.
+and a teaching tool for colleagues learning particle filter methods.
 
 ---
 

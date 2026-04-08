@@ -160,5 +160,4 @@ estimation methods. *Journal of Statistical Software*, 78(1), 1–25.
 ## Author
 
 Michael Falkenheim  
-[Congressional Budget Office](https://www.cbo.gov)  
 September 2020
